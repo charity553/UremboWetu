@@ -12,3 +12,13 @@ Our website will have a functional form, payment process, add to cart buttons an
         Technology
 Our project uses MySQL and PHP to back the interface with strong database functionality.
 For the front-end development, we will use HTML and javaScript widgets to style the site and create a simple, clean interface.
+
+
+Requrements:
+Function Requirements
+The system shall be able to book appointment for users.
+
+Non-Functional Requirements
+Reliability.
+Performance : The system should have high percentage of accuracy to give correct predictions
+Efficiency: The system should perform as expected 
