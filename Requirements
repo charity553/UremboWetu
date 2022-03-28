@@ -5,3 +5,7 @@
 Salon-goers, primarily female, are the second major audience. They will
 use the client side of the application, primarily using it to browse local
 salons, view user ratings, and make appointments online, all on demand.
+
+        Technology
+Our project uses MySQL and PHP to back the interface with strong database functionality.
+For the front-end development, we will use HTML and javaScript widgets to style the site and create a simple, clean interface.
